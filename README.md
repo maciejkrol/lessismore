@@ -19,3 +19,8 @@ See how it works:
 5. Click the "Load unpacked extension..." button and indicate the location of the files.
 6. Done! If you had facebook page already opened refresh it.
 
+## To do
+
+* Settings panel where you can select which elements should be hidden 
+* Chrome Web Store integration
+* Auto update
