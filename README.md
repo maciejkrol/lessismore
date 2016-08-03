@@ -10,14 +10,11 @@ See how it works:
 
 ## Installation
 
-The extension is now available via [Chrome Web Store](webstore) for easy installation and auto updates. Click on the icon below:
+The extension is now available via [Chrome Web Store](https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp) for easy installation and auto updates. Click on the icon below:
 
-[![Chrome Web Store](manual/chromewebstore.png)](webstore)
+[![Chrome Web Store](manual/chromewebstore.png)](https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp)
 
 
 ## To do
 
 * Settings panel where you can select which elements should be hidden
-
-
-[webstore]:https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp
