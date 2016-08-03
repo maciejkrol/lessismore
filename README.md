@@ -10,7 +10,7 @@ See how it works:
 
 ## Installation
 
-The extension is now available via [Chrome Web Store](https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp) for easy installation and auto updates. Click on the icon below:
+The extension is now available for **free** via [Chrome Web Store](https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp) for easy installation and auto updates. Click on the icon below:
 
 [![Chrome Web Store](manual/chromewebstore.png)](https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp)
 
