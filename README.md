@@ -10,17 +10,14 @@ See how it works:
 
 ## Installation
 
-**I plan to add this extension to the official Chrome store in the future.** In the meantime you will need to install it manually.
+The extension is now available via [Chrome Web Store](webstore) for easy installation and auto updates. Click on the icon below:
 
-1. Clone the repo or download using the green "Clone or download" button.
-2. Unzip the archive in some safe and place.
-3. Go to [chrome://extensions/](chrome://extensions/).
-4. You may need to tick the "Developer mode" on the top right.
-5. Click the "Load unpacked extension..." button and indicate the location of the files.
-6. Done! If you had facebook page already opened refresh it.
+[![Chrome Web Store](manual/chromewebstore.png)](webstore)
+
 
 ## To do
 
-* Settings panel where you can select which elements should be hidden 
-* Chrome Web Store integration
-* Auto update
+* Settings panel where you can select which elements should be hidden
+
+
+[webstore]:https://chrome.google.com/webstore/detail/less-is-more/gnihdaachkbkaonglcgpofiidiblpfhp
